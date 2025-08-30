@@ -1,0 +1,16 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by ChatGPT (gpt-4o-mini)",
+	"version" : "1.0",
+	"author" : "ChatGPT",
+	"contact" : "",
+	"language" : "greek",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-greek-ai/game.json",
+		"config/vcmi-greek-ai/maps.json",
+		"config/vcmi-greek-ai/campaigns.json",
+		"config/vcmi-greek-ai/chronicles.json",
+		"config/vcmi-greek-ai/vcmi.json"
+	]
+}
