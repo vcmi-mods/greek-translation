@@ -1,7 +1,7 @@
 {
 	"name" : "Greek translation",
 	"description" : "Greek translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"author" : "",
 	"contact" : "",
 	"language" : "greek",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.1" : [ "Menu screens" ],
 		"1.0.0" : [ "Initial release" ]
 	},
 	"german" : {
