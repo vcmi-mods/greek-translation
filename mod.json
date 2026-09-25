@@ -6,23 +6,27 @@
 	"contact" : "",
 	"language" : "greek",
 	"modType" : "Translation",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.7.0"
 	},
-	"changelog" : 
-	{ 
-		"1.0.2" : [ "Remove custom inappropriate russian font" ],
-		"1.0.1" : [ "Menu screens" ],
-		"1.0.0" : [ "Initial release" ]
+	"changelog" : {
+		"1.0.2" : [
+			"Remove custom inappropriate russian font"
+		],
+		"1.0.1" : [
+			"Menu screens"
+		],
+		"1.0.0" : [
+			"Initial release"
+		]
 	},
 	"german" : {
 		"name" : "Griechische Übersetzung",
-		"description" : "Demotische griechische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Demotische griechische Übersetzung von Heroes of Might and Magic III: Complete Edition"
 	},
 	"greek" : {
 		"name" : "Ελληνική μετάφραση",
-		"description" : "Δημοτική ελληνική μετάφραση του Heroes of Might and Magic III: Πλήρης Έκδοση"	
+		"description" : "Δημοτική ελληνική μετάφραση του Heroes of Might and Magic III: Πλήρης Έκδοση"
 	},
 	"translations" : [
 		"config/vcmi-greek/game.json",
